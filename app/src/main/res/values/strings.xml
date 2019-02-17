@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR SAMPLE</string>
+    <string name="qr_decoder_error_message">Tidak Tedeteksi!</string>
+</resources>
